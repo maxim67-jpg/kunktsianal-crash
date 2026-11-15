@@ -1,0 +1,4 @@
+name: Kunktsianal
+version: 1.0
+main: kunktsianal.Kunktsianal
+api-version: '1.21'
